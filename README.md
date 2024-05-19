@@ -10,7 +10,7 @@
 # API End Point
 
 **Create new client (user)**
-
+<br>
 **Path:** http://localhost:8086/api/users
 <br>
 `
@@ -21,6 +21,7 @@
 `
 
 **Create new locker**
+<br>
 **Path:** http://localhost:8086/api/lockers
 <br>
 `{
@@ -29,7 +30,9 @@
 	"occupied":0
 }
 `
+<br>
 **Create booking**
+<br>
 **Path:** http://localhost:8086/api/bookings/create
 <br>
 `
