@@ -34,6 +34,7 @@
 **Path:** http://localhost:8086/api/lockers
 - Body
 <br>
+
 ```
 {
 	"lockerNumber":"009",
@@ -41,6 +42,7 @@
 	"occupied":0
 }
 ```
+
 <br>
 
 **Create booking**
