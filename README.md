@@ -23,19 +23,20 @@
 **Create new locker**
 **Path:** http://localhost:8086/api/lockers
 <br>
-{
+`{
 	"lockerNumber":"009",
 	"password":"0",
 	"occupied":0
 }
-
+`
 **Create booking**
 **Path:** http://localhost:8086/api/bookings/create
 <br>
+`
 {
 	"userId": 1,
 	"lockerIds": [105],
 	"endDate": "2024-05-26T12:00:00"
 }
-
+`
 
