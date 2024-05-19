@@ -35,6 +35,7 @@
 <br>
 **Path:** http://localhost:8086/api/bookings/create
 <br>
+
 ```
 {
 	"userId": 1,
