@@ -31,6 +31,7 @@
 }
 ```
 <br>
+
 **Create booking**
 <br>
 **Path:** http://localhost:8086/api/bookings/create
